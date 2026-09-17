@@ -12,3 +12,7 @@
 -Jugar videojuegos
 -Ir al gimnasio
 -Fútbol
+
+## Contacto
+
+**Correo electrónico: josepaficticio@gmail.com
